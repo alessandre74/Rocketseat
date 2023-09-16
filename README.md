@@ -1,6 +1,4 @@
-<h1 align="center">
- 🚀 ![ Rocketseat - Ignite ](https://www.rocketseat.com.br/ignite)
-</h1>
+🚀 ![ Rocketseat - Ignite ](https://www.rocketseat.com.br/ignite)
 
 <div align="center">
        <img src="./_imagem/ignite.png"/>
