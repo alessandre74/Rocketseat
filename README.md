@@ -1,5 +1,5 @@
 <h1 align="center">
-Rocketseat - Ignite
+ ### 🚀 [Rocketseat - Ignite](https://www.rocketseat.com.br/ignite)
 </h1>
 
 <div align="center">
@@ -7,5 +7,3 @@ Rocketseat - Ignite
 </div>
 
 </br>
-
-### 🚀 [Rocketseat - Ignite](https://www.rocketseat.com.br/ignite)
