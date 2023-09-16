@@ -1,9 +1,5 @@
-<h1 align="center">
-   Ignite Gym
-</h1>
-
 <div align="center">
-   <img src="./gif/ignitegym.gif/>
+   <img src="./gif/ignitegym.gif"/>
 </div>
 
 </br>
