@@ -1,4 +1,4 @@
-import { Text } from 'react-native'
+import { Text, View } from 'react-native'
 import Animated, { Keyframe } from 'react-native-reanimated'
 import Icon from 'react-native-vector-icons/MaterialIcons'
 import { styles } from './styles'
@@ -21,8 +21,10 @@ export function Message() {
       entering={enteringKeyFrame.duration(400)}
       exiting={exitingKeyFrame}
     >
-      <Icon name="notifications" color="#FFF" size={22} />
-      <Text style={styles.title}>Mike lindo!</Text>
+      <View style={styles.content}>
+        <Icon name="notifications" color="#FFF" size={22} />
+        <Text style={styles.title}>Animação Keyframe com React Native Reanimated</Text>
+      </View>
     </Animated.View>
   )
 }
