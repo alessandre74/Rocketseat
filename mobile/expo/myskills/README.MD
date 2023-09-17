@@ -8,8 +8,8 @@ MySkills é um aplicativo desenvolvido no curso Ignite da Rocketseat.
 
 ## 🚀 Tecnologias utilizadas
 
-- [React native](https://reactnative.dev)
 - [TypeScript](https://www.typescriptlang.org/)
+- [React native](https://reactnative.dev)
 
 ## 📄 License
 

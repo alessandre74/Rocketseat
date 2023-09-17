@@ -10,7 +10,7 @@ Imhere é um aplicativo de lista de presença de participantes, desenvolvido no 
 
 ## 🚀 Tecnologias utilizadas
 
-- [Expo](https://docs.expo.dev)
+- [Expo](https://expo.dev)
 - [Typescrypt](https://www.typescriptlang.org)
 
 ## 📄 License

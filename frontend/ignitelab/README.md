@@ -16,10 +16,10 @@ App Web Plataforma de Evento desenvolvido na semana Ignite Lab da Rocketseat.
 - [Graphql](https://graphql.org)
 - [Date-fns](https://date-fns.org)
 - [Graph CMS](https://app.graphcms.com)
-- [Tailwind CSS](https://tailwindcss.com)
-- [Phosphor Icons](https://phosphoricons.com)
 - [TypeScript](https://www.typescriptlang.org/)
+- [Tailwind CSS](https://tailwindcss.com)
 - [Apollo Client](https://www.apollographql.com)
+- [Phosphor Icons](https://phosphoricons.com)
 - [Graphql Code Generator](https://www.graphql-code-generator.com)
 
 ## 📄 License

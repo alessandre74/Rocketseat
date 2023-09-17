@@ -24,14 +24,14 @@ Gofinances é um aplicativo de finanças pessoais desenvolvido no curso Ignite d
 
 ## 🚀 Tecnologias utilizadas
 
+- [Yup](https://github.com/jquense/yup)
 - [Expo](https://expo.dev/)
 - [Date-fns](https://date-fns.org)
-- [Yup](https://github.com/jquense/yup)
 - [TypeScript](https://www.typescriptlang.org/)
+- [Victory Native](https://formidable.com/open-source/victory/)
 - [React Hook Form](https://react-hook-form.com)
 - [React Navigation](https://reactnavigation.org)
 - [Styled Components](https://styled-components.com/)
-- [Victory Native](https://formidable.com/open-source/victory/)
 - [React Native Async Storage](https://react-native-async-storage.github.io/async-storage/)
 
 ## 📄 License

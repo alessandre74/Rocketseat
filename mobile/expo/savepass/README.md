@@ -18,8 +18,8 @@ Savepass é um aplicativo desenvolvido no desafio do curso Ignite da Rocketseat
 
 ## 🚀 Tecnologias utilizadas
 
-- [Expo](https://expo.dev/)
 - [Yup](https://github.com/jquense/yup)
+- [Expo](https://expo.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [React Hook Form](https://react-hook-form.com)
 - [React Navigation](https://reactnavigation.org)

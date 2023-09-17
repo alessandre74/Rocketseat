@@ -10,7 +10,7 @@ Ignite Teams é um aplicativo para organizar pessoas que se reúnem para jogar e
 
 ## 🚀 Tecnologias utilizadas
 
-- [Expo](https://docs.expo.dev)
+- [Expo](https://expo.dev)
 - [Typescrypt](https://www.typescriptlang.org)
 - [React Navigation](https://reactnavigation.org)
 - [Styled-components](https://styled-components.com)

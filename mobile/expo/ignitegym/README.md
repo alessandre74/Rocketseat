@@ -10,13 +10,13 @@ Ignite Gym é um aplicativo de academia, desenvolvido no curso Ignite da Rockets
 
 ## 🚀 Tecnologias utilizadas
 
-- [Expo](https://docs.expo.dev)
-- [Native Base](https://nativebase.io)
 - [Yup](https://github.com/jquense/yup)
+- [Expo](https://expo.dev)
+- [Axios](https://axios-http.com/ptbr/docs/intro)
+- [Native Base](https://nativebase.io)
 - [Typescrypt](https://www.typescriptlang.org)
 - [React Hook Form](https://react-hook-form.com)
 - [React Navigation](https://reactnavigation.org)
-- [Axios](https://axios-http.com/ptbr/docs/intro)
 
 ## 📄 License
 

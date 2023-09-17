@@ -10,9 +10,9 @@ Aplicativo simples para testar a lib do SHOPIFY (criando UI components com o Res
 
 ## 🚀 Tecnologias utilizadas
 
-- [Expo](https://docs.expo.dev)
-- [Typescrypt](https://www.typescriptlang.org)
+- [Expo](https://expo.dev)
 - [Restyle](https://shopify.github.io/restyle/)
+- [Typescrypt](https://www.typescriptlang.org)
 
 ## 📄 License
 
