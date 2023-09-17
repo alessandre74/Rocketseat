@@ -24,7 +24,7 @@ Savepass é um aplicativo desenvolvido no desafio do curso Ignite da Rocketseat
 - [React Hook Form](https://react-hook-form.com)
 - [React Navigation](https://reactnavigation.org)
 - [Styled Components](https://styled-components.com/)
-- [React Native Async Storage](hhttps://react-native-async-storage.github.io/async-storage/)
+- [React Native Async Storage](https://react-native-async-storage.github.io/async-storage/)
 
 ## 📄 License
 
