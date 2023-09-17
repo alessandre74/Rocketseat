@@ -1,17 +1,18 @@
 <div align="center">
-   <img src="./gif/imhere.gif"/>
+   <img src="./_imagem/restyleApp.png"/>
 </div>
 
 </br>
 
 ## 💻 Projeto
 
-Imhere é um aplicativo de lista de presença de participantes, desenvolvido no curso Ignite da Rocketseat.
+Aplicativo simples para testar a lib do SHOPIFY (criando UI components com o Restyle) canal do youtube da Rocketseat.
 
 ## 🚀 Tecnologias utilizadas
 
 - [Expo](https://docs.expo.dev)
 - [Typescrypt](https://www.typescriptlang.org)
+- [Restyle](https://shopify.github.io/restyle/)
 
 ## 📄 License
 
