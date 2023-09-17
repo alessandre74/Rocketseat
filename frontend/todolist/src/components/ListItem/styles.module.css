@@ -1,0 +1,29 @@
+.btnChecked {
+  width: 1.5rem;
+  height: 1.5rem;
+  background: var(--purple-dark);
+  color: var(--gray-100);
+  border: 0;
+  border-radius: 0.75rem;
+}
+
+.btnUnchecked {
+  width: 1.5rem;
+  height: 1.5rem;
+  background: var(--gray-500);
+  border: 1px solid var(--purple);
+  border-radius: 0.75rem;
+}
+
+.taskChecked {
+  text-decoration-line: line-through;
+  color: var(--gray-300);
+}
+
+.btnTrash {
+  background: transparent;
+  border: 0;
+  color: var(--gray-300);
+  cursor: pointer;
+  line-height: 0;
+}

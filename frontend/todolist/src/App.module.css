@@ -1,0 +1,109 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.newTask {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  gap: 0.5rem;
+
+  margin-top: -30px;
+  margin-bottom: 4rem;
+}
+
+.newTask input {
+  width: 40rem;
+  height: 3.375rem;
+  color: var(--gray-100);
+
+  padding: 0 1rem;
+  background: var(--gray-500);
+  border: 1px solid var(--gray-700);
+  border-radius: 0.5rem;
+}
+
+.newTask button {
+  width: 5.625rem;
+  height: 3.25rem;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem;
+
+  cursor: pointer;
+
+  font-size: 0.875rem;
+  font-weight: 700;
+
+  background: var(--blue-dark);
+  color: var(--gray-100);
+
+  border: var(--blue-dark);
+  border-radius: 0.5rem;
+}
+
+.newTask button:disabled {
+  opacity: 0.7;
+  cursor: not-allowed;
+}
+
+.content {
+  flex: 1;
+}
+
+main {
+  max-width: 46rem;
+  height: 18rem;
+  margin: 0 auto;
+}
+
+.countTasks {
+  max-width: 46rem;
+  font-size: 0.875rem;
+  font-weight: 700;
+  line-height: 1rem;
+
+  display: flex;
+  justify-content: space-between;
+
+  margin-bottom: 1.5rem;
+}
+
+.createTasks {
+  display: flex;
+  align-items: center;
+  gap: 0.625rem;
+}
+
+.createTasks strong {
+  color: var(--blue);
+}
+
+.createTasks span {
+  background: var(--gray-400);
+  color: var(--gray-200);
+  padding: 2px 8px;
+  border-radius: 999px;
+}
+
+.completedTasks {
+  display: flex;
+  align-items: center;
+  gap: 0.625rem;
+}
+
+.completedTasks strong {
+  color: var(--purple);
+}
+
+.completedTasks span {
+  background: var(--gray-400);
+  color: var(--gray-200);
+  padding: 2px 8px;
+  border-radius: 999px;
+}
