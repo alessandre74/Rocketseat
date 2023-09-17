@@ -10,8 +10,9 @@
 # Icon must end with two \r
 Icon
 
-# Exluir essa pasta
+# Não adicionar essas pastas
 mobile/expo/igniteshoesapp
+frontend/trilha/2021
 
 # Thumbnails
 ._*
